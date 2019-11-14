@@ -57,7 +57,7 @@ def evaluate_circuit_expression(expr):
     operands.append(c) 
   
   # handle the last operand specifically, get rid of the `]`
-  operands[-1] = operands[-1][0]
+  operands[-1] = operands[-1][0] 
   
   # use a switch/if statement where each branch handles an operator 
   if operator == '&': 

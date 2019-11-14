@@ -8,3 +8,6 @@
 
 11/12/19
 - evaluate_circuit_expressions https://youtu.be/4YT__2aK9WM
+
+11/13/19
+- continuing with circuit expressions https://youtu.be/T4N5h9DYTpQ
