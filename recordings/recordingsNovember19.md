@@ -27,3 +27,6 @@
 - Runtime Complexity https://youtu.be/Mbf6qm2cm-Y
 - HR on big O https://youtu.be/v4cd1O4zkGw
 - Tk on runtime efficiency https://youtu.be/rEx9E_Oq8xg
+
+## 11/19/19
+- Sorting https://youtu.be/EqI3BAyzPF4
