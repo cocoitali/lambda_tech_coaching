@@ -30,3 +30,9 @@
 
 ## 11/19/19
 - Sorting https://youtu.be/EqI3BAyzPF4
+
+## 11/20/19
+- Recursion
+
+## 11/21/19
+- Telephone Words https://youtu.be/M1sNbBgjTGQ
